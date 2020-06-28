@@ -13,7 +13,7 @@ En este caso he creado una aplicación Andorid en la cuál se incuye todo lo vis
 * Icono
 * SplashScreen
 * Registro con Firebase
-* Login con autenticación
+* Login con autenticación  (Creedenciales: correo = jhonathan-xabier@chidori.com  - contraseña = 123456)
 * Dinamic Images
 * Responsive Design
 * Input controll
