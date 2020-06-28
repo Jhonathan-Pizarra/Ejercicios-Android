@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pizarra Jhonathan</string>
+    <string name="anim_name">¿Qué animal es?</string>
+    <string name="boton">Ok</string>
+    <string name="opciones">Salir</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103809165006",
+    "firebase_url": "https://pruebatopicos-5aa73.firebaseio.com",
+    "project_id": "pruebatopicos-5aa73",
+    "storage_bucket": "pruebatopicos-5aa73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103809165006:android:e979785aaa7f65c935d29f",
+        "android_client_info": {
+          "package_name": "com.example.pruebatopicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103809165006-vrkg6inbqgcg2fka65v9sspcfhnn7vgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pruebatopicos",
+            "certificate_hash": "cb8400cbeac8cf5de8ec73db518240697fe5f800"
+          }
+        },
+        {
+          "client_id": "103809165006-5oond0j29ge6vlpc9smurr39uvobb4dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAedCm1MGoY1cTFlQWHsyrvtfoow4THRvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103809165006-5oond0j29ge6vlpc9smurr39uvobb4dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
