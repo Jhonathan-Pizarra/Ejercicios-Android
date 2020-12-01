@@ -1,5 +1,6 @@
-# Pizarra Jhonathan
+# Ejericios Android
 
+**Por:** Jhonathan Pizarra\
 **Asignatura:** Tópicos Especiales\
 **Facultad:** ESFOT\
 **Descripción:**\
